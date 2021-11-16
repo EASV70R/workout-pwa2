@@ -1,0 +1,229 @@
+[{
+        "id": 1,
+        "category": "yoga",
+        "title": { "EN": "Hatha Yoga", "DA": "Hatha Yoga" },
+        "appointments": [
+            { "id": 1, "date": "July 20, 2020 17:30:00", "spotsLeft": 0 },
+            { "id": 2, "date": "July 20, 2020 18:30:00", "spotsLeft": 5 },
+            { "id": 3, "date": "July 20, 2020 19:30:00", "spotsLeft": 10 }
+        ],
+        "diff": 3,
+        "rating": 4.5,
+        "duration": 130,
+        "comments": [
+            { "id": 1, "user": "Martin", "body": "Super træning!" },
+            { "id": 2, "user": "Ole", "body": "Super træning af Ole!" },
+            { "id": 3, "user": "Abdihakim", "body": "Super træning af Abdihakim!" }
+        ],
+        "videoId": "icfwMWYDeac"
+    },
+    {
+        "id": 2,
+        "category": "yoga",
+        "title": { "EN": "Vinyasa Yoga", "DA": "Vinyasa Yoga" },
+        "appointments": [
+            { "id": 1, "date": "July 20, 2020 17:30:00", "spotsLeft": 10 },
+            { "id": 2, "date": "July 20, 2020 18:30:00", "spotsLeft": 10 },
+            { "id": 3, "date": "July 20, 2020 19:30:00", "spotsLeft": 10 }
+        ],
+        "diff": 2,
+        "rating": 3.7,
+        "duration": 110,
+        "comments": [
+            { "id": 1, "user": "Mikkel", "body": "Super træning!" },
+            { "id": 2, "user": "Mie", "body": "Super træning af Mie!" },
+            { "id": 3, "user": "Lars", "body": "Super træning af Lars!" }
+        ],
+        "videoId": "sTANio_2E0Q"
+    },
+    {
+        "id": 3,
+        "category": "yoga",
+        "title": { "EN": "Yin Yoga", "DA": "Yin Yoga" },
+        "appointments": [
+            { "id": 1, "date": "July 20, 2020 17:30:00", "spotsLeft": 10 },
+            { "id": 2, "date": "July 20, 2020 18:30:00", "spotsLeft": 10 },
+            { "id": 3, "date": "July 20, 2020 19:30:00", "spotsLeft": 10 }
+        ],
+        "diff": 5,
+        "rating": 2.8,
+        "duration": 145,
+        "comments": [
+            { "id": 1, "user": "Martin", "body": "Super træning!" },
+            { "id": 2, "user": "Ole", "body": "Super træning af Ole!" },
+            { "id": 3, "user": "Abdihakim", "body": "Super træning af Abdihakim!" }
+        ],
+        "videoId": "r7xsYgTeM2Q"
+    },
+    {
+        "id": 4,
+        "category": "pilates",
+        "title": { "EN": "Reformer Pilates", "DA": "Reformer Pilates" },
+        "appointments": [
+            { "id": 1, "date": "July 20, 2020 17:30:00", "spotsLeft": 10 },
+            { "id": 2, "date": "July 20, 2020 18:30:00", "spotsLeft": 10 },
+            { "id": 3, "date": "July 20, 2020 19:30:00", "spotsLeft": 10 }
+        ],
+        "diff": 3,
+        "rating": 4.5,
+        "duration": 95,
+        "comments": [
+            { "id": 1, "user": "Mikkel", "body": "Super træning!" },
+            { "id": 2, "user": "Mie", "body": "Super træning af Mie!" },
+            { "id": 3, "user": "Lars", "body": "Super træning af Lars!" }
+        ],
+        "videoId": "RDQmnzuE2q4"
+    },
+    {
+        "id": 5,
+        "category": "pilates",
+        "title": { "EN": "Group Pilates", "DA": "Gruppe Pilates" },
+        "appointments": [
+            { "id": 1, "date": "July 20, 2020 17:30:00", "spotsLeft": 10 },
+            { "id": 2, "date": "July 20, 2020 18:30:00", "spotsLeft": 10 },
+            { "id": 3, "date": "July 20, 2020 19:30:00", "spotsLeft": 10 }
+        ],
+        "diff": 2,
+        "rating": 4.6,
+        "duration": 80,
+        "comments": [
+            { "id": 1, "user": "Martin", "body": "Super træning!" },
+            { "id": 2, "user": "Ole", "body": "Super træning af Ole!" },
+            { "id": 3, "user": "Abdihakim", "body": "Super træning af Abdihakim!" }
+        ],
+        "videoId": "Q3y4iGxPXSA"
+    },
+    {
+        "id": 6,
+        "category": "pilates",
+        "title": { "EN": "Classical Pilates", "DA": "Klassisk Pilates" },
+        "appointments": [
+            { "id": 1, "date": "July 20, 2020 17:30:00", "spotsLeft": 10 },
+            { "id": 2, "date": "July 20, 2020 18:30:00", "spotsLeft": 10 },
+            { "id": 3, "date": "July 20, 2020 19:30:00", "spotsLeft": 10 }
+        ],
+        "diff": 4,
+        "rating": 3.3,
+        "duration": 100,
+        "comments": [
+            { "id": 1, "user": "Mikkel", "body": "Super træning!" },
+            { "id": 2, "user": "Mie", "body": "Super træning af Mie!" },
+            { "id": 3, "user": "Lars", "body": "Super træning af Lars!" }
+        ],
+        "videoId": "K56Z12XNQ5c"
+    },
+    {
+        "id": 7,
+        "category": "core",
+        "title": { "EN": "Core Burner", "DA": "Core Burner" },
+        "appointments": [
+            { "id": 1, "date": "July 20, 2020 17:30:00", "spotsLeft": 10 },
+            { "id": 2, "date": "July 20, 2020 18:30:00", "spotsLeft": 10 },
+            { "id": 3, "date": "July 20, 2020 19:30:00", "spotsLeft": 10 }
+        ],
+        "diff": 5,
+        "rating": 4.9,
+        "duration": 60,
+        "comments": [
+            { "id": 1, "user": "Martin", "body": "Super træning!" },
+            { "id": 2, "user": "Ole", "body": "Super træning af Ole!" },
+            { "id": 3, "user": "Abdihakim", "body": "Super træning af Abdihakim!" }
+        ],
+        "videoId": "dJlFmxiL11s"
+    },
+    {
+        "id": 8,
+        "category": "core",
+        "title": { "EN": "Day 1 Planker", "DA": "Dag 1 Planker" },
+        "appointments": [
+            { "id": 1, "date": "July 20, 2020 17:30:00", "spotsLeft": 10 },
+            { "id": 2, "date": "July 20, 2020 18:30:00", "spotsLeft": 10 },
+            { "id": 3, "date": "July 20, 2020 19:30:00", "spotsLeft": 10 }
+        ],
+        "diff": 3,
+        "rating": 4.1,
+        "duration": 45,
+        "comments": [
+            { "id": 1, "user": "Mikkel", "body": "Super træning!" },
+            { "id": 2, "user": "Mie", "body": "Super træning af Mie!" },
+            { "id": 3, "user": "Lars", "body": "Super træning af Lars!" }
+        ],
+        "videoId": "-b2lNLq3EaA"
+    },
+    {
+        "id": 9,
+        "category": "core",
+        "title": { "EN": "Total Abs", "DA": "Total Abs" },
+        "appointments": [
+            { "id": 1, "date": "July 20, 2020 17:30:00", "spotsLeft": 10 },
+            { "id": 2, "date": "July 20, 2020 18:30:00", "spotsLeft": 10 },
+            { "id": 3, "date": "July 20, 2020 19:30:00", "spotsLeft": 10 }
+        ],
+        "diff": 5,
+        "rating": 4.2,
+        "duration": 90,
+        "comments": [
+            { "id": 1, "user": "Martin", "body": "Super træning!" },
+            { "id": 2, "user": "Ole", "body": "Super træning af Ole!" },
+            { "id": 3, "user": "Abdihakim", "body": "Super træning af Abdihakim!" }
+        ],
+        "videoId": "N5ViYeGJOCA"
+    },
+    {
+        "id": 10,
+        "category": "cardio",
+        "title": { "EN": "Row-Oh", "DA": "Roning" },
+        "appointments": [
+            { "id": 1, "date": "July 20, 2020 17:30:00", "spotsLeft": 10 },
+            { "id": 2, "date": "July 20, 2020 18:30:00", "spotsLeft": 10 },
+            { "id": 3, "date": "July 20, 2020 19:30:00", "spotsLeft": 10 }
+        ],
+        "diff": 3,
+        "rating": 4.0,
+        "duration": 100,
+        "comments": [
+            { "id": 1, "user": "Mikkel", "body": "Super træning!" },
+            { "id": 2, "user": "Mie", "body": "Super træning af Mie!" },
+            { "id": 3, "user": "Lars", "body": "Super træning af Lars!" }
+        ],
+        "videoId": "2EriI_QCyGc"
+    },
+    {
+        "id": 11,
+        "category": "cardio",
+        "title": { "EN": "CouchTo2K", "DA": "Løbning" },
+        "appointments": [
+            { "id": 1, "date": "July 20, 2020 17:30:00", "spotsLeft": 10 },
+            { "id": 2, "date": "July 20, 2020 18:30:00", "spotsLeft": 10 },
+            { "id": 3, "date": "July 20, 2020 19:30:00", "spotsLeft": 10 }
+        ],
+        "diff": 5,
+        "rating": 4.5,
+        "duration": 85,
+        "comments": [
+            { "id": 1, "user": "Martin", "body": "Super træning!" },
+            { "id": 2, "user": "Ole", "body": "Super træning af Ole!" },
+            { "id": 3, "user": "Abdihakim", "body": "Super træning af Abdihakim!" }
+        ],
+        "videoId": "KxKJEIqS1HQ"
+    },
+    {
+        "id": 12,
+        "category": "cardio",
+        "title": { "EN": "Swim2Win", "DA": "Svømning" },
+        "appointments": [
+            { "id": 1, "date": "July 20, 2020 17:30:00", "spotsLeft": 10 },
+            { "id": 2, "date": "July 20, 2020 18:30:00", "spotsLeft": 10 },
+            { "id": 3, "date": "July 20, 2020 19:30:00", "spotsLeft": 10 }
+        ],
+        "diff": 3,
+        "rating": 4.8,
+        "duration": 75,
+        "comments": [
+            { "id": 1, "user": "Mikkel", "body": "Super træning!" },
+            { "id": 2, "user": "Mie", "body": "Super træning af Mie!" },
+            { "id": 3, "user": "Lars", "body": "Super træning af Lars!" }
+        ],
+        "videoId": "oM4sHl1hTEE"
+    }
+]
